@@ -19,12 +19,17 @@ a.nav-link.sec-li-small2 {
     font-family: 'Josefin Sans';
     font-style: normal;
     font-weight: 500;
-    font-size: 22px;
+    font-size: 18px;
     line-height: 22px;
     color: #000000;
 
 }
-
+button.navbar-toggler {
+    background: #fff !important;
+}
+.sec-mobile-d{
+    display:none;
+}
 nav.navbar.navbar-expand-lg.navbar-light.p-0 {
     padding: 10px 0px !important;
 }
@@ -37,7 +42,6 @@ nav.navbar.navbar-expand-lg.navbar-light.p-0 {
     background-image: url(../images/2.2.png);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: ;
     padding-bottom: 220px;
 }
 

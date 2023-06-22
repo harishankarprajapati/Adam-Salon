@@ -11,3 +11,103 @@
     }
 
 }
+/* -------767--------- */
+
+@media only screen and (max-width: 767px) {
+
+    a.navbar-brand {
+        width: 65%;
+    }
+    .sec-logo-j{
+        width: 100%;
+    }
+    .sec-header-bgg {
+        padding: 0;
+    }
+    .sec-mobile-d{
+        display: block;
+    }
+    .sec-btn-header-bggg{
+        display:none;
+    }
+    a.nav-link.sec-li-small2 {
+        padding-left: 0px;
+        padding-top: 25px;
+        border-bottom: 1px solid #fff;
+    }
+    .sechero-pp h2 {
+        font-size: 39px;
+        padding-top: 30px;
+    }
+    .sechero-pp p {
+        font-size: 22px;
+        padding-top: 20px;
+    }
+    .sec-star {
+        padding-top: 0px;
+    }
+    .sec-top-icon-22{
+        display: none;
+    }
+    .sec-hero-bhh {
+        padding-bottom: 100px;
+    }
+    .sec-video-mm {
+        margin-top: -80px;
+    }   
+    .sec-video-w {
+        width: 100%;
+    }
+    .sec-video-pp p {
+        font-size: 22px;
+        padding-bottom: 10px;
+    }
+    .sec-ser-h , .sec-off-h , .sec-boo-slid-h ,.sectest-hh {
+        font-size: 40px;
+    }
+    .sec-bgg-service {
+        padding: 20px 0px 180px 0px;
+    }
+    .sec-serv-mm {
+        margin-top: -167px;
+        padding-bottom: 40px;
+    }
+    .sec-ser-ccc h2 {
+        font-size: 27px;
+    }
+    .sec-off-pad {
+        padding-bottom: 40px;
+    }
+    .sec-polt-bg {
+        background: #000;
+        padding: 60px 0px 90px 0px;
+    }
+    .sec-poti-mm {
+        margin-top: -77px;
+        padding-bottom: 40px;
+    }
+    .each-testi p {
+        font-size: 20px;
+        width: 100%;
+    }
+    .eui-widget-title.es-widget-title.eapps-instagram-feed-title a {
+        font-size: 19px !important;
+    }
+    .eapps-instagram-feed-title {
+        padding: 14px 10px;
+    }
+    .sec-foot-pp {
+        padding: 30px 0px 30px 0px;
+    }
+    .sec-copy-p {
+        padding-top: 20px;
+        font-size: 18px;
+        text-align: center;
+    }
+    .sec-icon-foo{
+        text-align: center;
+    }
+    .sec-row-paaaaa{
+        padding-top: 10px !important;
+    }
+}
