@@ -64,6 +64,7 @@
     }
     .sec-ser-h , .sec-off-h , .sec-boo-slid-h ,.sectest-hh {
         font-size: 40px;
+        line-height: 50px;
     }
     .sec-bgg-service {
         padding: 20px 0px 180px 0px;
@@ -92,6 +93,7 @@
     }
     .eui-widget-title.es-widget-title.eapps-instagram-feed-title a {
         font-size: 19px !important;
+        
     }
     .eapps-instagram-feed-title {
         padding: 14px 10px;
@@ -109,5 +111,37 @@
     }
     .sec-row-paaaaa{
         padding-top: 10px !important;
+    }
+    .sec-about-bgg2 {
+        padding: 20px 20px;
+        background-size: cover;
+    }
+    .sec-abot-h {
+    font-size: 40px;
+    color: #fff;
+    }
+    .sechr-h {
+        background: #fff;
+    }
+    .sec-abot-p2 {
+        font-size: 18px;
+    }
+    .sec-margin {
+        margin-top: -20px !important;
+        margin: auto;
+    }
+    .s-img-w {
+        width: 100%;
+    }
+    .s-img-w h4 {
+        font-size: 21px;
+        line-height: 30px;
+        padding-top: 28px;
+    }
+    .s-img-w p {
+        font-size: 18px;
+        line-height: 24px;
+        padding-top: 20px;
+        padding-bottom: 10px;
     }
 }
