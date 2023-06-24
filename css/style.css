@@ -24,12 +24,15 @@ a.nav-link.sec-li-small2 {
     color: #000000;
 
 }
+
 button.navbar-toggler {
     background: #fff !important;
 }
-.sec-mobile-d{
-    display:none;
+
+.sec-mobile-d {
+    display: none;
 }
+
 nav.navbar.navbar-expand-lg.navbar-light.p-0 {
     padding: 10px 0px !important;
 }
@@ -430,7 +433,8 @@ nav.navbar.navbar-expand-lg.navbar-light.p-0 {
     background-repeat: no-repeat;
     background-size: contain;
     background-position: right;
-    padding: 190px 0px;
+    padding: 222px 0px;
+    margin-right: 0px;
 }
 
 .sec-abot-h {
@@ -441,33 +445,39 @@ nav.navbar.navbar-expand-lg.navbar-light.p-0 {
     line-height: 108.5%;
     color: #000000;
 }
-.sechr-h{
+
+.sechr-h {
     background: #000;
     opacity: 1;
     width: 100px;
     height: 2px;
 }
-.sec-abot-p2{
+
+.sec-abot-p2 {
     font-family: 'Roboto';
-font-style: normal;
-font-weight: 300;
-font-size: 30px;
-line-height: 167.69%;
-color: #FFFFFF;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 167.69%;
+    color: #FFFFFF;
 
 }
-.sec-margin{
+
+.sec-margin {
     margin-top: -100px !important;
     margin: auto;
 }
-.s-img-w img{
-   width: 100%;
+
+.s-img-w img {
+    width: 100%;
 }
-.s-img-w{
+
+.s-img-w {
     width: 65%;
     margin: auto;
 }
-.s-img-w h4{
+
+.s-img-w h4 {
     font-family: 'Josefin Sans';
     font-style: normal;
     font-weight: 400;
@@ -477,7 +487,8 @@ color: #FFFFFF;
     color: #000000;
     padding-top: 50px;
 }
-.s-img-w p{
+
+.s-img-w p {
     font-family: 'Josefin Sans';
     font-style: normal;
     font-weight: 400;
@@ -493,53 +504,54 @@ color: #FFFFFF;
 
 .testimonial-section {
     text-align: center;
-  }
-  
-  .each-testi p {
+}
+
+.each-testi p {
     margin-bottom: 35px;
-  }
-  
-  .each-testi p,
-  .each-testi h6 {
+}
+
+.each-testi p,
+.each-testi h6 {
     font-size: 18px;
     line-height: 24px;
     font-weight: 300;
-  }
-  
-  .testimonial-section .btn-green {
+}
+
+.testimonial-section .btn-green {
     padding: 15px 75px;
-  }
-  
-  .testimonial-section .owl-theme .owl-dots,
-  .testimonial-section .global-content {
+}
+
+.testimonial-section .owl-theme .owl-dots,
+.testimonial-section .global-content {
     margin-bottom: 20px;
-  }
-  
-  .testimonial-section .owl-theme .owl-dots .owl-dot:focus {
+}
+
+.testimonial-section .owl-theme .owl-dots .owl-dot:focus {
     outline: 0;
-  }
-  
-  .testimonial-section .owl-theme .owl-dots .owl-dot span {
+}
+
+.testimonial-section .owl-theme .owl-dots .owl-dot span {
     width: 40px;
     height: 4px;
     border-radius: 0;
     background: #cccccc;
-  }
-  
-  .testimonial-section .owl-theme .owl-dots .owl-dot.active span,
-  .testimonial-section .owl-theme .owl-dots .owl-dot:hover span {
+}
+
+.testimonial-section .owl-theme .owl-dots .owl-dot.active span,
+.testimonial-section .owl-theme .owl-dots .owl-dot:hover span {
     background: #000;
-  }
-  
-.sectest-hh{
+}
+
+.sectest-hh {
     font-family: 'Josefin Sans';
-font-style: normal;
-font-weight: 600;
-font-size: 70px;
-line-height: 164%;
-text-align: center;
-color: #000000;
-}  
+    font-style: normal;
+    font-weight: 600;
+    font-size: 70px;
+    line-height: 164%;
+    text-align: center;
+    color: #000000;
+}
+
 .each-testi p {
     font-family: 'Josefin Sans';
     font-style: italic;
@@ -551,12 +563,204 @@ color: #000000;
     width: 80%;
     margin: auto;
 }
+
 .each-testi h6 {
     font-family: 'Josefin Sans';
-font-style: normal;
-font-weight: 600;
-font-size: 25px;
-line-height: 164%;
-text-align: center;
-color: #000000;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 164%;
+    text-align: center;
+    color: #000000;
 }
+
+
+
+/* -------------Services-page----------------- */
+
+
+.sec-erv-book {
+    padding: 60px 0px;
+}
+
+.sec-bord-serv {
+    border-bottom: 1px solid #DCDCDC;
+    padding: 20px 0px 0px 0px;
+}
+
+.sec-sev-book-h {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 367.5%;
+    color: #000000;
+    margin: 0;
+}
+
+.sec-sev-book-p {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 368%;
+    margin: 0;
+    text-align: center;
+    color: #898989;
+}
+
+.sec-menu-btn22 {
+    background: #000;
+    border-radius: 50px !important;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-family: 'Playfair Display';
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    color: #fff;
+    border-radius: 0;
+    border: 0;
+    padding: 15px 30px;
+}
+
+.sec-menu-btn22:hover,
+.sec-menu-btn2:hover {
+    background: #000 !important;
+    color: #fff !important;
+}
+
+.sec-bord-serv2 {
+    border-bottom: 1px solid #DCDCDC;
+    padding-top: 5px;
+}
+
+.form-control {
+    font-family: 'Nunito' !important;
+    font-style: normal;
+    font-weight: 600 !important;
+    font-size: 18px !important;
+    line-height: 25px !important;
+    color: #000000 !important;
+}
+
+select#inputState,
+input {
+    height: 47px !important;
+}
+
+.sec-menu-btn2 {
+    color: #FFF;
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Playfair Display';
+    font-weight: 600;
+    border-radius: 74px;
+    background: #000;
+    padding: 15px 30px;
+    border: none;
+}
+
+.sec-contact-padding {
+    padding: 60px 0px;
+}
+
+.sec-cont-hh {
+    color: #202031;
+    font-size: 40px;
+    font-family: 'Josefin Sans';
+    font-weight: 600;
+    line-height: 164%;
+}
+
+.sec-cont-pp {
+    color: #000;
+    font-size: 20px;
+    font-family: 'Roboto';
+    line-height: 150%;
+}
+
+.seccont-add-h {
+    color: #000;
+    font-size: 20px;
+    font-family: 'Josefin Sans';
+    font-weight: 700;
+    line-height: 150%;
+}
+
+.seccont-add-p {
+    color: var(--dark, #0A142F);
+    font-size: 18px;
+    font-family: 'Roboto';
+    line-height: 32px;
+}
+
+
+
+/* gallery */
+
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+
+/* Coding With Nick */
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+.header{
+    text-align: center;
+    padding: 32px;
+}
+.header h1{
+    font-family: 'Sacramento';
+    font-size: 50px;
+}
+.sec-padd-gg{
+    padding: 60px 0px;
+}
+.sec-rooow{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.column{
+    flex: 25%;
+    max-width: 25%;
+}
+.img-hover-zoom{
+    height: auto;
+    overflow: hidden;
+    border: 5px solid #ffff;
+}
+.img-hover-zoom img{
+    vertical-align: middle;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    transition:  transform .5s ease;
+}
+.img-hover-zoom:hover img{
+    transform: scale(1.5);
+}
+
+@media screen and (max-width: 800px) {
+    .column{
+        flex: 50%;
+        max-width: 50%;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .column{
+        flex: 100%;
+        max-width: 100%;
+    }
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+
+/* Coding With Nick */
