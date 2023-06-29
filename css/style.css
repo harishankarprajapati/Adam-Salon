@@ -258,10 +258,10 @@ nav.navbar.navbar-expand-lg.navbar-light.p-0 {
     font-style: normal;
     font-weight: 600;
     font-size: 70px;
-    line-height: 164%;
+    line-height: 80px;
+    padding-top: 30px;
     text-align: center;
     color: #FFFFFF;
-
 }
 
 /* GALLERY */
@@ -726,6 +726,7 @@ body{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    margin: 0px;
 }
 .column{
     flex: 25%;
